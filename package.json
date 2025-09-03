@@ -1,9 +1,0 @@
-{
-  "name": "line-gpt-bot",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "openai": "^4.57.0",
-    "raw-body": "^3.0.0"
-  }
-}
